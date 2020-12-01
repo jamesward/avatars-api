@@ -1,0 +1,14 @@
+{
+  "name": "avatars-api",
+  "version": "0.0.1",
+  "dependencies": {
+    "adorable-avatars": "0.4.1",
+    "express": "4.17.1"
+  },
+  "scripts": {
+    "start": "node web.js"
+  },
+  "engines": {
+    "node": "12.16.2"
+  }
+}
